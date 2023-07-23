@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm hott3 🌻
 
 <!--
 **hott3/hott3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Favorite Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,aws,wordpress,html,css,scss,js,ts,vscode,figma,ai,discord&perline=8)](https://skillicons.dev)
+
+
+### Accounnts
+
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hott3_)
